@@ -3,10 +3,9 @@
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning python 🐍️
-- 👯 I’m looking to collaborate on many Open Source Projects 💖
 - 🤔 I’m looking for help with career 🏢
 - 💬 Ask me about anything related to my favourite tech stack listed below 👇️
-- 😄 Pronouns: she / Her
+- 😄 Pronouns: She / Her
 
 <hr />
 
