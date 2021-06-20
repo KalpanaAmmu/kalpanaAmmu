@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm Kalpana.</h1>
 <h3 align="left">I am a Frontend Developer. ❤️</h3>
 
-- 🔭 I’m currently working on something cool UI and UX design :wink:
+- 🔭 I’m currently working on something cool Excel Projects:wink:
 - 🌱 I’m currently learning python 🐍️
 - 🤔 I’m looking for help with career 🏢
 - 💬 Ask me about anything related to my favourite tech stack listed below 👇️
