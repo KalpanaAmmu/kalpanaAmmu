@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning python 🐍️
 - 🤔 I’m looking for help with career 🏢
 - 💬 Ask me about anything related to my favourite tech stack listed below 👇️
+- 💬 How to contact me :Email / Telgram
 - 😄 Pronouns: She / Her
 
 <hr />
