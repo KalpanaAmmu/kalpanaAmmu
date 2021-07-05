@@ -2,17 +2,11 @@
 <h3 align="center">Inspiring quotes from Web designers and Web Devlopers.❤️</h3>
 
 - 🔭 I’m currently working on **something cool😉**
-
-- 🌱 I’m currently learning **Python (Django)**
-
+- 🌱 I’m currently learning ** Django  ( 🐍️ Web Framework)**
 - 👯 I’m looking to collaborate on **with other content creators**
-
 - 🤝 I’m looking for help with **career 🏢**
-
 - 💬 Ask me about **related to my favourite tech stack listed below. 👇️**
-
 - 📫 How to reach me **Email,Telegram**
-
 - ⚡ Fun fact **I love to play ♟ and listen music 🎧.**
 
 <h3 align="left">Connect with me:</h3>
