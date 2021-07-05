@@ -6,17 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpanaammu" alt="kalpanaammu" /></a> </p>
 
 - 🔭 I’m currently working on **something cool😉**
-
-- 🌱 I’m currently learning **Python (Django)**
-
+- 🌱 I’m currently learning **Python Django🎸️ ( 🐍️ Web Framework)**
 - 👯 I’m looking to collaborate on **with other content creators**
-
 - 🤝 I’m looking for help with **career 🏢**
-
 - 💬 Ask me about **related to my favourite tech stack listed below. 👇️**
-
-- 📫 How to reach me **Email**
-
+- 📫 How to reach me **Email me**
 - ⚡ Fun fact **I love to play ♟ and listen music 🎧.**
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpanaammu&show_icons=true&locale=en&layout=compact" alt="kalpanaammu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpanaammu&show_icons=true&locale=en" alt="kalpanaammu" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kalpanaammu&show_icons=true&locale=en" alt="kalpanaammu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpanaammu&" alt="kalpanaammu" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpanaammu&" alt="kalpanaammu" /></p>
 
