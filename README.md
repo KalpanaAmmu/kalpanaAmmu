@@ -20,9 +20,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
+  <a href="https://dribbble.com/kalpanasundar" target="white"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kalpanasundar" height="70" width="80" /></a>
 <a href="https://dev.to/kalpanaammu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kalpanaammu" height="70" width="80" /></a>
-<a href="https://dribbble.com/kalpanasundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kalpanasundar" height="70" width="80" /></a>
 <a href="https://www.hackerrank.com/kalpanaammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalpanaammu" height="70" width="80" /></a>
 </p>
 
