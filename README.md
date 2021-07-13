@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalpana</h1>
 <h3 align="center">Inspiring quotes from Web designers and Web Devlopers.❤️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpanaammu&label=Profile%20views&color=0e75b6&style=flat" alt="kalpanaammu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpanaammu" alt="kalpanaammu" /></a> </p>
 
@@ -25,7 +24,7 @@
 <a href="https://dev.to/kalpanaammu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="kalpanaammu" height="90" width="80" /></a>
 <a href="https://www.hackerrank.com/kalpanaammu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalpanaammu" height="90" width="80" /></a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpanaammu&label=Profile%20views&color=0e75b6&style=flat" alt="kalpanaammu" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
