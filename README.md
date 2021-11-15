@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kalpanaAmmu</h1>
-<h3 align="center">Inspiring quotes from Web designers and Web Devlopers.❤️</h3>
+<h3 align="center">Success is a JOURNEY, not a DISTINATION.❤️</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpanaammu" alt="kalpanaammu" /></a> </p>
